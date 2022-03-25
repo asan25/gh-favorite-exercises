@@ -6,7 +6,7 @@ public class Class_A {
 	
 		System.out.println("Hello World");
 		System.out.println("Hello World 2");
-		
+		System.out.println("hello dummuies");
 	}//main
 
 }
