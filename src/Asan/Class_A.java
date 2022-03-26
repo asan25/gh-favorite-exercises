@@ -8,7 +8,7 @@ public class Class_A {
 		System.out.println("Hello World 2");
 		System.out.println("hello dummuies");
 		System.out.println("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");
-		System.out.println("I am from MBAQUUU");
+		System.out.println("I am frm MBAQUUU");
 		System.out.println("ass");
 		
 	}//main
